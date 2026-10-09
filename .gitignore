@@ -1,0 +1,17 @@
+# Swift Package Manager
+.build/
+.swiftpm/
+Package.resolved
+
+# Build output
+dist/
+*.app
+
+# Xcode
+.DS_Store
+*.xcuserstate
+xcuserdata/
+
+# Misc local scratch
+.backup/
+outputs/
